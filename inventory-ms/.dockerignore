@@ -1,0 +1,7 @@
+.vscode/
+.scannerwork/
+coverage/
+dist/
+node_modules/
+undefined/
+.env
